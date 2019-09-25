@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EventAttendance.Source.Event
+namespace EventAttendance.src.Event
 {
     public class DefaultEvent
     {

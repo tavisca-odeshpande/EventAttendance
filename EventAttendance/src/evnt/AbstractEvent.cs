@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace EventAttendance.src
 {
-    public class EventManager
+    public class AbstractEvent
     {
     }
 }
